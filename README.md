@@ -3,7 +3,7 @@
 ## Objective
 Gain practical knowledge of Oracle Cloud and the unique capabilities of Oracle's Autonomous Data Warehouse in other to support the types of everyday business operations that are needed for real-world data analysis e.g. Oracle MovieStream.
 
-
+  
 ### Skills Learned
 
 - Techniques for loading data into an Autonomous Data Warehouse.
